@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi🤪! This is Shinoda ✨</h1>
 
 
-## About Me / 关于我
+## About Me
 
 - 🔭 I’m currently studying at the Chinese Academy of Sciences  
      我目前在中国科学院学习
@@ -34,12 +34,12 @@
 
 
 
-## 📊 My GitHub Stats / 我的 GitHub 数据
+## 📊 My GitHub Stats
 
 ![Shinoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinodashx&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinodashx&layout=compact&theme=radical)
 
-## 🛠️ Technologies & Tools / 技术与工具
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
