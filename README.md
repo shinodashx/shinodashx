@@ -1,8 +1,5 @@
 <h1 align="center">👋 Hi🤪! This is Shinoda ✨</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Welcome">
-</p>
 
 ## About Me / 关于我
 
@@ -62,7 +59,9 @@
 
 ## 📈 GitHub Activity / GitHub 活动
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shinodashx&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinodashx&theme=react-dark&area=true" alt="GitHub Activity Graph" />
+</p>
 
 
 ---
