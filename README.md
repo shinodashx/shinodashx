@@ -1,4 +1,12 @@
-<h1 align="center">👋 Hi🤪! This is Shinoda ✨</h1>
+<div>
+ <h1> 
+<img src="https://slackmojis.com/emojis/3643-cool-doge/image/1643514389/cool-doge.gif"></img>
+Hi! </h1>
+</div>
+<h1 align="center"><img src="https://slackmojis.com/emojis/8268-blob-hype/image/1643514812/blob-hype.gif" width="30" />
+👋 Hi🤪! This is Shinoda ✨
+<img src="https://slackmojis.com/emojis/8268-blob-hype/image/1643514812/blob-hype.gif" width="30" />
+</h1>
 
 
 ## About Me
