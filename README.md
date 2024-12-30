@@ -28,8 +28,8 @@ Hi! </h1>
 - ⚡ **Fun Fact:**  
   - I enjoy skiing and would love to hit the slopes with you!  
     我喜欢滑雪，可以抓我一起去滑雪！
-  - Currently venturing into some entrepreneurial projects  
-    我正在进行一些简单的创业
+  - Currently venturing into some fun projects  
+    我正在进行一些有趣的事情
 
 - 📫 **How to Reach Me:**  
   - Email: [haoxuansong01@gmail.com](mailto:haoxuansong01@gmail.com)  
