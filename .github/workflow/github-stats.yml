@@ -1,0 +1,40 @@
+name: Update GitHub Readme Stats
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # 每30分钟运行一次
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16' # 或您需要的 Node.js 版本
+
+      - name: Install dependencies
+        run: |
+          npm install -g github-readme-stats
+
+      - name: Generate GitHub Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_STATS }}
+        run: |
+          github-readme-stats --username shinodashx --show_icons=true --count_private=true --include_all_commits=true --theme blue --title_color=7A7ADB --icon_color=2234AE --text_color=D3D3D3 --bg_color=0,000000,130F40 --output stats.png
+
+          # 生成 Top Languages Stats
+          github-readme-stats --username shinodashx --show_icons=true --count_private=true --layout=compact --hide=javascript,html,css --theme blue --title_color=7A7ADB --icon_color=2234AE --text_color=D3D3D3 --bg_color=0,000000,130F40 --output top-langs.png
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats.png top-langs.png
+          git commit -m "Update GitHub Readme Stats"
+          git push
