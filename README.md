@@ -6,20 +6,16 @@
 - 🔭 I’m currently studying at the Chinese Academy of Sciences  
      我目前在中国科学院学习
 
-- 🌱 I’m learning Multimodal, 3D Vision, and Computer Graphics  
-     我正在学习多模态、3D视觉和计算机图形学
+- 🌱 I’m working on Multimodal, 3D Vision, and Computer Graphics  
+     我正在从事多模态、3D视觉和计算机图形学等方向
 
 - 🏅 **Accomplishments:**  
   - 🥈 *1* from ICPC-EC-Final  
     🥈 *1* 来自 ICPC-EC-Final
-  - 🥈 *1* from ICPC-Regional  
-    🥈 *1* 来自 ICPC-Regional
   - 🥈 *1* from CCPC-Final  
     🥈 *1* 来自 CCPC-Final
-  - 🥈 *1* from CCPC-Regional  
-    🥈 *1* 来自 CCPC-Regional  
   I have as an algorithm contest player (ACMer)  
-  我曾经是一个算法竞赛选手，并获得过多枚ICPC和CCPC的奖牌
+  我曾经是一个算法竞赛选手，目前参与部分教学及讲座工作
 
 - ⚡ **Fun Fact:**  
   - I enjoy skiing and would love to hit the slopes with you!  
