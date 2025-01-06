@@ -11,8 +11,8 @@ Hi! </h1>
 
 ## About Me
 
-- 🔭 I’m currently studying at the Chinese Academy of Sciences  
-     我目前在中国科学院学习
+- 🔭 I’m currently at the Chinese Academy of Sciences  
+     我目前在中国科学院
 
 - 🌱 I’m working on Multimodal, 3D Vision, and Computer Graphics  
      我正在从事多模态、3D视觉和计算机图形学等方向
@@ -23,7 +23,7 @@ Hi! </h1>
   - 🥈 *1* from CCPC-Final  
     🥈 *1* 来自 CCPC-Final
   I have as an algorithm contest player (ACMer)  
-  我曾经是一个算法竞赛选手，目前参与部分教学及讲座工作
+  我曾经是一个算法竞赛选手，参与部分教学, 出题及讲座工作
 
 - ⚡ **Fun Fact:**  
   - I enjoy skiing and would love to hit the slopes with you!  
