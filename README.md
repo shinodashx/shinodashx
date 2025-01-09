@@ -14,8 +14,8 @@ Hi! </h1>
 - 🔭 I’m currently at the Chinese Academy of Sciences  
      我目前在中国科学院
 
-- 🌱 I’m working on Multimodal, 3D Vision, and Computer Graphics  
-     我正在从事多模态、3D视觉和计算机图形学等方向
+- 🌱 I’m enjoying on Fintech, Multimodal, 3D Vision, and Computer Graphics  
+     我参与Fintech、多模态、3D视觉和计算机图形学等方向
 
 - 🏅 **Accomplishments:**  
   - 🥈 *1* from ICPC-EC-Final  
@@ -26,8 +26,6 @@ Hi! </h1>
   我曾经是一个算法竞赛选手，参与部分教学, 出题及讲座工作
 
 - ⚡ **Fun Fact:**  
-  - I enjoy skiing and would love to hit the slopes with you!  
-    我喜欢滑雪，可以抓我一起去滑雪！
   - Currently venturing into some fun projects  
     我正在进行一些有趣的事情
 
